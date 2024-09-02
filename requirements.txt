@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+langchain-astradb
+astrapy
+python-dotenv
+django
+pypdf
+daphne
+channels
+djangorestframework
+django-cors-headers
+scikit-learn
+cassandra-driver
+cassio
